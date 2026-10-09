@@ -7,7 +7,7 @@
 *Detecting brain tumors from MRI scans using deep learning, with role-based access for Admins, Doctors, and Patients.*
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_App-00D4AA?style=for-the-badge)](https://brain-check-brain-tumor.vercel.app)
-[![GitHub](https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/sahilsingh78/BrainCheck-Brain-tumor-)
+[![GitHub](https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/princeranjan07/Brain-Tumor-Detection)
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask)
@@ -268,9 +268,9 @@ npm start
 
 <div align="center">
 
-**Sahil**
+**Prince**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@sahilsingh78-181717?style=flat-square&logo=github)](https://github.com/sahilsingh78)
+[![GitHub](https://img.shields.io/badge/GitHub-@priceranjan07-181717?style=flat-square&logo=github)](https://github.com/princeranjan07)
 
 Galgotias College of Engineering & Technology
 
